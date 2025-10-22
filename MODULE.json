@@ -1,0 +1,12 @@
+{
+    "sequence": [
+        "Magento_Directory"
+    ],
+    "modules": [
+        "Magento_Directory",
+        "Magento_Store"
+    ],
+    "components": [],
+    "config": [],
+    "tests": []
+}
