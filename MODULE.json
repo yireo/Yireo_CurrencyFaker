@@ -8,5 +8,7 @@
     ],
     "components": [],
     "config": [],
-    "tests": []
+    "tests": [],
+    "module_name": "Yireo_CurrencyFaker",
+    "composer_name": "yireo/magento2-currency-faker"
 }
