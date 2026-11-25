@@ -1,6 +1,6 @@
 {
     "name": "yireo/magento2-currency-faker",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Magento 2 module to generate fake currency rates for development and testing",
     "type": "magento2-module",
     "require": {
