@@ -41,7 +41,6 @@ class FakeImporter extends AbstractImport
      * @param string $currencyFrom
      * @param string $currencyTo
      * @return float
-     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
     protected function _convert($currencyFrom, $currencyTo): float
     {
